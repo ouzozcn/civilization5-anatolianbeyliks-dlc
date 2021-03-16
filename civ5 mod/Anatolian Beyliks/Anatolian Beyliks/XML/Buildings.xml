@@ -12,7 +12,7 @@
 	<Buildings>
     <Row>
       <Type>BUILDING_KILER</Type>
-	  <BuildingClass>BUILDINGCLASS_KILER</BuildingClass>
+	    <BuildingClass>BUILDINGCLASS_KILER</BuildingClass>
       <Description>TXT_KEY_BUILDING_KILER_DESC</Description>
       <Civilopedia>TXT_KEY_BUILDING_KILER_PEDIA</Civilopedia>
       <Strategy>TXT_KEY_BUILDING_KILER_STRATEGY</Strategy>
@@ -127,7 +127,6 @@
       <TradeRouteLandGoldBonus>0</TradeRouteLandGoldBonus>
       <CityStateTradeRouteProductionModifier>0</CityStateTradeRouteProductionModifier>
       <GreatScientistBeakerModifier>0</GreatScientistBeakerModifier>
-     
       <ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
       <NearbyTerrainRequired></NearbyTerrainRequired>
       <ProhibitedCityTerrain></ProhibitedCityTerrain>
@@ -351,10 +350,10 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_KILER_STRATEGY">
-      <Text>The Kiler is the Anatolians unique building which is an improved granary. Building a Kiler will provide you an extra trade route. A Kiler adds +3  [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold to each tile. It also adds +1 [ICON_PRODUCTION] Production  to each Forest and Jungle tile.</Text>
+      <Text>Kiler is the Anatolians unique building which is an improved granary. Building a Kiler will provide you an extra trade route. A Kiler adds +3  [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold to each tile. It also adds +1 [ICON_PRODUCTION] Production to each Forest and Jungle tile.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_KILER_HELP">
-      <Text>+3 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold to each tile. +1 Production [ICON_PRODUCTION] for each forest and jungle tile. </Text>
+      <Text>+3 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production and +1 [ICON_GOLD] Gold to each tile. +1 Production [ICON_PRODUCTION] for each forest and jungle tile. </Text>
     </Row>
   </Language_en_US>
 </GameData>
