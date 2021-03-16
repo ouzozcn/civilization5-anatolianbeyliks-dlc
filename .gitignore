@@ -39,3 +39,10 @@ luac.out
 *.x86_64
 *.hex
 
+# Ignored Files by Oguz
+civ5 mod/Anatolian Beyliks/Build
+civ5 mod/Anatolian Beyliks/Packages
+*.civ5sln
+*.civ5suo
+
+
