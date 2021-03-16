@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_OS_OSMANOGULLARI</Type>
+      <Description>TXT_KEY_CIV_OS_OSMANOGULLARI_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_OS_OSMANOGULLARI</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_OS_OSMANOGULLARI_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_OS_OSMANOGULLARI_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_OS_OSMANOGULLARI</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>OS_OSMANOGULLARI_ATLAS_LEGENDS</IconAtlas>
+      <AlphaIconAtlas>EXPANSION_CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>OS_MapImage.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_OS_OSMANOGULLARI_TEXT</DawnOfManQuote>
+      <DawnOfManImage>dom_osmanoglu.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_OS_OSMANOGULLARI</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_31</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <LeaderheadType>LEADER_OSMAN_BEY</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <ReligionType>RELIGION_ISLAM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+      <RegionType>REGION_GRASS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_OS_OSMANOGULLARI</Type>
+      <PrimaryColor>COLOR_PLAYER_OS_OSMANOGULLARI_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_OS_OSMANOGULLARI_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_OS_OSMANOGULLARI_ICON</Type>
+      <Red>0.9803921568627451</Red>
+      <Green>0.9764705882352941</Green>
+      <Blue>0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_OS_OSMANOGULLARI_BACKGROUND</Type>
+      <Red>0.996078431372549</Red>
+      <Green>0</Green>
+      <Blue>0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_OS_OSMANOGULLARI_DESC">
+      <Text>Osmanogullari</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_10">
+      <Text>Dominance of Anatolian Peninsula</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_11">
+      <Text>Struggles for Naval Dominance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_12">
+      <Text>Establishment of the Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_13">
+      <Text>The Occupation of Constantinople</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_14">
+      <Text>Expanding in Balkans</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_15">
+      <Text>Cultural Icons</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_2">
+      <Text>Geography and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_3">
+      <Text>Pre-History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_4">
+      <Text>Expansion in Africa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_5">
+      <Text>Osmanogullari and Other Beyliks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_6">
+      <Text>Shifting Empires</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_7">
+      <Text>Transitions of Power</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_8">
+      <Text>Becoming Khalifa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_HEADING_9">
+      <Text>Sickmen of Europe</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_14">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_15">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OS_OSMANOGULLARI_TITLE">
+      <Text>Osmanogullari</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_OS_OSMANOGULLARI_SHORT_DESC">
+      <Text>Osmanoglu Beyligi</Text>
+      <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_OS_OSMANOGULLARI_ADJECTIVE">
+      <Text>Osmanoglu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_OS_OSMANOGULLARI_TEXT">
+      <Text>Gazi Pasha Osman Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_0">
+      <Text>Sögüt</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_1">
+      <Text>Bursa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_2">
+      <Text>Gemlik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_3">
+      <Text>Bilecik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_4">
+      <Text>Kestel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_5">
+      <Text>IZNIK</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_6">
+      <Text>Pamukova</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_7">
+      <Text>Geyve</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_8">
+      <Text>VEZIRHAN</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_9">
+      <Text>Keles</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_10">
+      <Text>Dutlar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_11">
+      <Text>Karacabey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_12">
+      <Text>Susurluk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_13">
+      <Text>Göbül</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_14">
+      <Text>Emet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_15">
+      <Text>HISARCIK</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_16">
+      <Text>Yoncali</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_17">
+      <Text>Seyitgazi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_18">
+      <Text>Tarakli</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_19">
+      <Text>Kuzuluk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_20">
+      <Text>Mudurnu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_21">
+      <Text>Nallıhan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_22">
+      <Text>Beyköy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_23">
+      <Text>Düzköy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_24">
+      <Text>Sarıcakaya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_25">
+      <Text>Hasandag</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_26">
+      <Text>Mudanya</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_27">
+      <Text>Armutlu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_28">
+      <Text>NILUFER</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_29">
+      <Text>Görükle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_30">
+      <Text>Osmaneli</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OS_OSMANOGULLARI_31">
+      <Text>Tavsanli</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_0">
+      <Text>Gediz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_1">
+      <Text>Tugsad Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_2">
+      <Text>KARGI BEY</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_3">
+      <Text>ELIF Hatun</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_4">
+      <Text>CESMELI Arda Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_5">
+      <Text>HAKUN Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_6">
+      <Text>Saruhan Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_7">
+      <Text>Tugce Hatun</Text>
+	  <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_8">
+      <Text>Oghuz Bey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OS_OSMANOGULLARI_9">
+      <Text>AVSAR Bey</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

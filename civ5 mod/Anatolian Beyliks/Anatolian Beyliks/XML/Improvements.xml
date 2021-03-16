@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Improvements>
+	  <Row>
+		  <Type>IMPROVEMENT_AN_HISAR</Type>
+		  <Description>TXT_KEY_IMPROVEMENT_AN_HISAR</Description>
+		  <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_AN_HISAR_TEXT</Civilopedia>
+		  <Help>TXT_KEY_CIV5_IMPROVEMENTS_AN_HISAR_HELP</Help>
+		  <ArtDefineTag>ART_DEF_IMPROVEMENT_FEITORIA</ArtDefineTag>
+		  <WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+		  <ImprovementPillage></ImprovementPillage>
+		  <ImprovementUpgrade></ImprovementUpgrade>
+		  <SpecificCivRequired>1</SpecificCivRequired>
+		  <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+		  <HillsMakesValid>0</HillsMakesValid>
+		  <FreshWaterMakesValid>0</FreshWaterMakesValid>
+		  <RiverSideMakesValid>0</RiverSideMakesValid>
+		  <NoFreshWater>0</NoFreshWater>
+		  <RequiresFlatlands>0</RequiresFlatlands>
+		  <RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+		  <RequiresFeature>0</RequiresFeature>
+		  <RequiresImprovement>0</RequiresImprovement>
+		  <RemovesResource>0</RemovesResource>
+		  <PromptWhenComplete>0</PromptWhenComplete>
+		  <Coastal>0</Coastal>
+		  <Water>0</Water>
+		  <DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+		  <DisplacePillager>0</DisplacePillager>
+		  <BuildableOnResources>1</BuildableOnResources>
+		  <BarbarianCamp>0</BarbarianCamp>
+		  <Goody>0</Goody>
+		  <Permanent>0</Permanent>
+		  <OutsideBorders>1</OutsideBorders>
+		  <InAdjacentFriendly>0</InAdjacentFriendly>
+		  <IgnoreOwnership>0</IgnoreOwnership>
+		  <OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+		  <GraphicalOnly>0</GraphicalOnly>
+		  <CreatedByGreatPerson>0</CreatedByGreatPerson>
+		  <NoTwoAdjacent>0</NoTwoAdjacent>
+		  <AdjacentLuxury>0</AdjacentLuxury>
+		  <AllowsWalkWater>0</AllowsWalkWater>
+		  <CultureAdjacentSameType>0</CultureAdjacentSameType>
+		  <TilesPerGoody>0</TilesPerGoody>
+		  <GoodyRange>0</GoodyRange>
+		  <FeatureGrowth>0</FeatureGrowth>
+		  <UpgradeTime>0</UpgradeTime>
+		  <RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+		  <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+		  <HillsUpgradeMod>0</HillsUpgradeMod>
+		  <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+		  <DefenseModifier>50</DefenseModifier>
+		  <NearbyEnemyDamage>0</NearbyEnemyDamage>
+		  <PillageGold>250</PillageGold>
+		  <ResourceExtractionMod>0</ResourceExtractionMod>
+		  <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+		  <GoldMaintenance>0</GoldMaintenance>
+		  <CultureBombRadius>1</CultureBombRadius>
+		  <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+		  <PortraitIndex>3</PortraitIndex>
+		  <IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+	  </Row>
+	<Row>
+		  <Type>IMPROVEMENT_NL_KASABA</Type>
+		  <Description>TXT_KEY_IMPROVEMENT_NL_KASABA</Description>
+		  <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_NL_KASABA_TEXT</Civilopedia>
+		  <Help>TXT_KEY_CIV5_IMPROVEMENTS_NL_KASABA_HELP</Help>
+		  <ArtDefineTag>ART_DEF_IMPROVEMENT_KASBAH</ArtDefineTag>
+		  <WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+		  <ImprovementPillage></ImprovementPillage>
+		  <ImprovementUpgrade></ImprovementUpgrade>
+		  <SpecificCivRequired>1</SpecificCivRequired>
+		  <CivilizationType>CIVILIZATION_OS_OSMANOGULLARI</CivilizationType>
+		  <HillsMakesValid>0</HillsMakesValid>
+		  <FreshWaterMakesValid>0</FreshWaterMakesValid>
+		  <RiverSideMakesValid>0</RiverSideMakesValid>
+		  <NoFreshWater>0</NoFreshWater>
+		  <RequiresFlatlands>0</RequiresFlatlands>
+		  <RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+		  <RequiresFeature>0</RequiresFeature>
+		  <RequiresImprovement>0</RequiresImprovement>
+		  <RemovesResource>0</RemovesResource>
+		  <PromptWhenComplete>0</PromptWhenComplete>
+		  <Coastal>0</Coastal>
+		  <Water>0</Water>
+		  <DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+		  <DisplacePillager>0</DisplacePillager>
+		  <BuildableOnResources>0</BuildableOnResources>
+		  <BarbarianCamp>0</BarbarianCamp>
+		  <Goody>0</Goody>
+		  <Permanent>0</Permanent>
+		  <OutsideBorders>0</OutsideBorders>
+		  <InAdjacentFriendly>0</InAdjacentFriendly>
+		  <IgnoreOwnership>0</IgnoreOwnership>
+		  <OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+		  <GraphicalOnly>0</GraphicalOnly>
+		  <CreatedByGreatPerson>0</CreatedByGreatPerson>
+		  <NoTwoAdjacent>0</NoTwoAdjacent>
+		  <AdjacentLuxury>0</AdjacentLuxury>
+		  <AllowsWalkWater>0</AllowsWalkWater>
+		  <CultureAdjacentSameType>0</CultureAdjacentSameType>
+		  <TilesPerGoody>0</TilesPerGoody>
+		  <GoodyRange>0</GoodyRange>
+		  <FeatureGrowth>0</FeatureGrowth>
+		  <UpgradeTime>0</UpgradeTime>
+		  <RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+		  <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+		  <HillsUpgradeMod>0</HillsUpgradeMod>
+		  <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+		  <DefenseModifier>50</DefenseModifier>
+		  <NearbyEnemyDamage>0</NearbyEnemyDamage>
+		  <PillageGold>250</PillageGold>
+		  <ResourceExtractionMod>0</ResourceExtractionMod>
+		  <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+		  <GoldMaintenance>0</GoldMaintenance>
+		  <CultureBombRadius>1</CultureBombRadius>
+		  <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+		  <PortraitIndex>4</PortraitIndex>
+		  <IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+	  </Row>
+  </Improvements>
+
+
+  <!-- Trait_ImprovementYieldChanges -->
+  <!-- Policy_ImprovementYieldChanges -->
+  <!-- Policy_ImprovementCultureChanges -->
+  <!-- Belief_ImprovementYieldChanges -->
+  <!-- Improvement_Flavors -->
+  <Improvement_Yields>
+   
+	<Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_FOOD</YieldType>
+		  <Yield>3</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_PRODUCTION</YieldType>
+		  <Yield>3</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_GOLD</YieldType>
+		  <Yield>2</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_CULTURE</YieldType>
+		  <Yield>2</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_FAITH</YieldType>
+		  <Yield>1</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+		  <YieldType>YIELD_SCIENCE</YieldType>
+		  <Yield>1</Yield>
+	  </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+		  <YieldType>YIELD_PRODUCTION</YieldType>
+		  <Yield>5</Yield>
+	  </Row>
+  </Improvement_Yields>
+  <!-- Improvement_YieldPerEra -->
+  <!-- Improvement_AdjacentCityYields -->
+  <!-- Improvement_CoastalLandYields -->
+  <!-- Improvement_FreshWaterYields -->
+  <!-- Improvement_HillsYields -->
+  <!-- Improvement_AdjacentMountainYieldChanges -->
+  <!-- Improvement_PrereqNatureYields -->
+  <!-- Improvement_RiverSideYields -->
+  <!-- Improvement_ValidTerrains -->
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+  </Improvement_ValidTerrains>
+  <!-- Improvement_ValidImprovements -->
+  <!-- Improvement_ResourceTypes -->
+  <!-- Improvement_ResourceType_Yields -->
+  <!-- Improvement_RouteYieldChanges -->
+  
+
+	<Builds>
+		
+		<Row>
+			<Type>BUILD_NL_KASABA</Type>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<Time>600</Time>
+			<ImprovementType>IMPROVEMENT_NL_KASABA</ImprovementType>
+			<Description>TXT_KEY_BUILD_NL_KASABA</Description>
+			<Recommendation>TXT_KEY_BUILD_KASBAH_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_L</HotKey>
+			<OrderPriority>97</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_AN_HISAR</Type>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>600</Time>
+			<ImprovementType>IMPROVEMENT_AN_HISAR</ImprovementType>
+			<Description>TXT_KEY_BUILD_AN_HISAR</Description>
+			<Recommendation>TXT_KEY_BUILD_FEITORIA_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_H</HotKey>
+			<OrderPriority>97</OrderPriority>
+			<IconIndex>2</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_NL_KASABA</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_AN_HISAR</BuildType>
+		</Row>
+	</Unit_Builds>
+	
+  <!-- Improvement_TechNoFreshWaterYieldChanges -->
+  <!-- Improvement_TechFreshWaterYieldChanges -->
+
+  <Language_en_US>
+  
+	  <Row Tag="TXT_KEY_BUILD_NL_KASABA">
+		  <Text>Construct a [LINK=IMPROVEMENT_NL_KASABA]Kasaba[\LINK]</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_IMPROVEMENT_NL_KASABA">
+		  <Text>Kasaba</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_NL_KASABA_TEXT">
+		  <Text>
+			  <!-- Add Civilopedia text here -->
+		  </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_NL_KASABA_HELP">
+		  <Text>Kasaba is a unique improvement for Anatolian Beyliks. It can be constructed in any kind of terrain. Construction a Kasaba will provide you +3 [ICON_FOOD] Food, +3 [ICON_PRODUCTION] Production, +2 [ICON_GOLD] Gold, +2 [ICON_CULTURE] Culture, +1 [ICON_FAITH] Faith and +1 [ICON_SCIENCE] Science. </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILD_AN_HISAR">
+		  <Text>Construct a [LINK=IMPROVEMENT_AN_HISAR]Hisar[\LINK]</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_IMPROVEMENT_AN_HISAR">
+		  <Text>Hisar</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AN_HISAR_TEXT">
+		  <Text>
+			  <!-- Add Civilopedia text here -->
+		  </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_AN_HISAR_HELP">
+		  <Text>Hisar is a unique improvement for Osmanogullari. A Hisar can be constructed outside your territory to claim 6 tile range territory. It has a huge amount defense modifier and also provides +5 [ICON_PRODUCTION] Production .</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>
