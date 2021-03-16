@@ -48,8 +48,8 @@
 		  <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
 		  <HillsUpgradeMod>0</HillsUpgradeMod>
 		  <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
-		  <DefenseModifier>50</DefenseModifier>
-		  <NearbyEnemyDamage>0</NearbyEnemyDamage>
+		  <DefenseModifier>150</DefenseModifier>
+		  <NearbyEnemyDamage>50</NearbyEnemyDamage>
 		  <PillageGold>250</PillageGold>
 		  <ResourceExtractionMod>0</ResourceExtractionMod>
 		  <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
@@ -112,7 +112,7 @@
 		  <ResourceExtractionMod>0</ResourceExtractionMod>
 		  <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
 		  <GoldMaintenance>0</GoldMaintenance>
-		  <CultureBombRadius>1</CultureBombRadius>
+		  <CultureBombRadius>0</CultureBombRadius>
 		  <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
 		  <PortraitIndex>4</PortraitIndex>
 		  <IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
