@@ -349,7 +349,7 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_KILER_STRATEGY">
-      <Text>The Kiler is the Anatolians unique building which is an improved granary. Building a Kiler will provide you an extra trade route. A Kiler adds +3  [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold  to each worked tile. It also adds +1 [ICON_PRODUCTION] Production  to each Forest and Jungle tile.</Text>
+      <Text>The Kiler is the Anatolians unique building which is an improved granary. Building a Kiler will provide you an extra trade route. A Kiler adds +3  [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold to each tile. It also adds +1 [ICON_PRODUCTION] Production  to each Forest and Jungle tile.</Text>
     </Row>
     <Row Tag="TXT_KEY_BUILDING_KILER_HELP">
       <Text>+3 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production  and +1 [ICON_GOLD] Gold  to each worked tile. +1 Production [ICON_PRODUCTION] for each forest and jungle tile. </Text>
