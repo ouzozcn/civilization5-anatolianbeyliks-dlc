@@ -48,7 +48,7 @@
 		  <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
 		  <HillsUpgradeMod>0</HillsUpgradeMod>
 		  <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
-		  <DefenseModifier>140</DefenseModifier>
+		  <DefenseModifier>160</DefenseModifier>
 		  <NearbyEnemyDamage>50</NearbyEnemyDamage>
 		  <PillageGold>250</PillageGold>
 		  <ResourceExtractionMod>0</ResourceExtractionMod>
