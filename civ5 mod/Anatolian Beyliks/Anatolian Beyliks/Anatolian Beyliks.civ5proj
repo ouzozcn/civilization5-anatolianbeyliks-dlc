@@ -5,12 +5,12 @@
     <ProjectGuid>{b22efd49-ae50-41c3-9cba-f4b036e3a75e}</ProjectGuid>
     <Name>Anatolian Beyliks</Name>
     <Guid>5a727188-1b62-48da-8bc7-c65db4948d76</Guid>
-    <ModVersion>1</ModVersion>
+    <ModVersion>2.3</ModVersion>
     <Stability>Beta</Stability>
     <Teaser>Anatolian Beyliks were small principalities (or petty kingdoms) in Anatolia governed by Beys,</Teaser>
     <Description>Anatolian Beyliks were small principalities (or petty kingdoms) in Anatolia governed by Beys, the first of which were founded at the end of the 11th century. This scenerio focuses on the 14th century. Become Ottoman to unite other Beys into a single Empire or play as Byzantine to keep Constantinople as the Holy Capital. Scenerio includes 15 Beyliks, Byzantine Empire, Empire of Trebizond, Mamluks, Karahanogullari and 7 City States located at the Aegean Archipelego and Cyprus. Scenerio also includes a special map which consist unique Natural Wonders such as Uludag, Cappadocia, Lake Van, Lake Salda, Saltlake, Mt. Nemrut, Mt. Ararat etc. Beyliks have a unique ability which let them to construct Kasaba and cities can construct Bazaars.</Description>
     <Authors>Oguzhan Ozcan a.k.a. sincap_og</Authors>
-    <SpecialThanks>Cahit, Tugsad ve Arda for bloved testing process</SpecialThanks>
+    <SpecialThanks>Cahit, Tugsad ve Arda for their contribution to testing process</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
     <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>

@@ -265,19 +265,19 @@
   <Building_TerrainYieldChanges>
     <Row>
       <BuildingType>BUILDING_KILER</BuildingType>
-      <TerrainType>TERRAIN_GRASSLAND</TerrainType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
       <YieldType>YIELD_PRODUCTION</YieldType>
       <Yield>2</Yield>
     </Row>
     <Row>
       <BuildingType>BUILDING_KILER</BuildingType>
-      <TerrainType>TERRAIN_GRASSLAND</TerrainType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
       <YieldType>YIELD_FOOD</YieldType>
       <Yield>3</Yield>
     </Row>
     <Row>
       <BuildingType>BUILDING_KILER</BuildingType>
-      <TerrainType>TERRAIN_GRASSLAND</TerrainType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
       <YieldType>YIELD_GOLD</YieldType>
       <Yield>1</Yield>
     </Row>
