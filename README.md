@@ -133,7 +133,6 @@ The Anatolian Beyliks were small Turkish principalities that emerged in Anatolia
 ## Compatibility
 - **Base Game:** Civilization V
 - **Recommended Expansions:** Gods & Kings, Brave New World
-- **Steam Workshop:** [Link to workshop if applicable]
 
 ---
 
